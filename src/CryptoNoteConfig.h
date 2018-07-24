@@ -88,7 +88,7 @@ const char* const SEED_NODES[] = {
   "node-4.btcnero.org:17150",
   "node-5.btcnero.org:17150",
   "node-6.btcnero.org:17150",
-  "node-7.btcnero.org:17150:17150",
+  "node-7.btcnero.org:17150",
   "node-8.btcnero.org:17150",
   "node-9.btcnero.org:17150",
   "node-10.btcnero.org:17150",
